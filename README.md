@@ -12,7 +12,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 
 
 <details>
-<summary>6_kangaroo</summary>
+<summary>a beer with a deer's antler</summary>
 <div markdown="1">
 
 <img src="./asset/original.png" alt="a beer with a deer's antler">
@@ -22,7 +22,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 
 
 <details>
-<summary>10_hoodie</summary>
+<summary>a beer body</summary>
 <div markdown="1">
 
 <img src="./asset/body.png" alt="a beer body">
@@ -32,7 +32,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 
 
 <details>
-<summary>13_sunglasses</summary>
+<summary>deer's antler</summary>
 <div markdown="1">
 
 <img src="./asset/antler.png" alt="deer's antler">
