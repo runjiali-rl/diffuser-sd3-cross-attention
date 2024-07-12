@@ -1,4 +1,4 @@
-# Cross Attention Map
+# Cross Attention Map for Stable Diffusion 3
 This codebase is built upon [Attention-map](https://github.com/wooyeolBaek/attention-map)
 
 
@@ -9,13 +9,13 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 
 <!-- <img src="./assets/t2i.png" alt="attn_map">
 <img src="./assets/attn_maps.png" alt="attn_map"> -->
-<img src="./assets/hf_spaces.png" alt="hf_spaces">
+
 
 <details>
 <summary>6_kangaroo</summary>
 <div markdown="1">
 
-<img src="./assets/6_<kangaroo>.png" alt="6_kangaroo">
+<img src="./assets/original.png" alt="a beer with a deer's antler">
 
 </div>
 </details>
@@ -25,7 +25,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 <summary>10_hoodie</summary>
 <div markdown="1">
 
-<img src="./assets/10_<hoodie>.png" alt="10_hoodie">
+<img src="./assets/body.png" alt="a beer body">
 
 </div>
 </details>
@@ -35,7 +35,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 <summary>13_sunglasses</summary>
 <div markdown="1">
 
-<img src="./assets/13_<sunglasses>.png" alt="13_sunglasses">
+<img src="./assets/antler" alt="deer's antler">
 
 </div>
 </details>
