@@ -15,7 +15,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 <summary>6_kangaroo</summary>
 <div markdown="1">
 
-<img src="./assets/original.png" alt="a beer with a deer's antler">
+<img src="./asset/original.png" alt="a beer with a deer's antler">
 
 </div>
 </details>
@@ -25,7 +25,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 <summary>10_hoodie</summary>
 <div markdown="1">
 
-<img src="./assets/body.png" alt="a beer body">
+<img src="./asset/body.png" alt="a beer body">
 
 </div>
 </details>
@@ -35,7 +35,7 @@ This repository is for extracting and visualizing attention maps for [Stable Dif
 <summary>13_sunglasses</summary>
 <div markdown="1">
 
-<img src="./assets/antler" alt="deer's antler">
+<img src="./asset/antler.png" alt="deer's antler">
 
 </div>
 </details>
