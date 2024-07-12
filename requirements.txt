@@ -1,4 +1,4 @@
-diffusers==0.29.0
-accelerate==0.25.0
-transformers==4.38.0
-einops==0.7.0
+diffusers==0.29.2
+accelerate==0.32.1
+transformers==4.42.3
+einops==0.8.0
